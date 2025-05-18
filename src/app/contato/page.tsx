@@ -90,8 +90,8 @@ export default function ContatoPage() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-800">Endereço</h3>
-                  <p className="text-gray-600">Av. Paulista, 1000, Sala 301</p>
-                  <p className="text-gray-600">São Paulo, SP - CEP 01310-100</p>
+                  <p className="text-gray-600">Av. Marcos Penteado de Ulhôa Rodrigues, 4053, Sala 211D</p>
+                  <p className="text-gray-600">Santana de Parnaíba, SP - CEP 06543-001</p>
                 </div>
               </div>
               <div className="flex items-start">
