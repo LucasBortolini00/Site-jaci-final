@@ -1,0 +1,2 @@
+/* Este é um arquivo placeholder para garantir que a pasta public/images seja reconhecida pelo Git */
+/* Substitua este arquivo por imagens reais do site */
