@@ -58,17 +58,14 @@ export default function ServicosPage() {
             <div className="p-6">
               <h3 className="text-2xl font-semibold mb-3 text-cyan-600">Desdobro de Terrenos</h3>
               <p className="text-gray-700 mb-4">
-                Realizamos todo o processo de desdobro de terrenos, desde o levantamento topográfico até a aprovação final junto à prefeitura, maximizando o potencial do seu investimento.
+                Realizamos todo o processo de desdobro de terrenos, desde o orçamento preliminar de serviços tercerizados até a aprovação final junto à prefeitura, maximizando o potencial do seu investimento.
               </p>
               <ul className="space-y-2 mb-6">
                 <li className="flex items-start">
                   <span className="text-green-500 mr-2">✓</span>
                   <span>Análise de viabilidade técnica e legal</span>
                 </li>
-                <li className="flex items-start">
-                  <span className="text-green-500 mr-2">✓</span>
-                  <span>Levantamento topográfico e planialtimétrico</span>
-                </li>
+             
                 <li className="flex items-start">
                   <span className="text-green-500 mr-2">✓</span>
                   <span>Elaboração de projetos conforme legislação</span>
