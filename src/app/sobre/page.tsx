@@ -96,7 +96,7 @@ export default function SobrePage() {
               <h3 className="text-xl font-semibold mb-1 text-cyan-700">Lucas Bortolini</h3>
               <p className="text-gray-600 mb-3">Gerente de Projetos e Obras</p>
               <p className="text-gray-700">
-                Engenheiro civil, pós graduado em gestão, responsável pela elaboração de processos internos.
+                Engenheiro Civil, pós graduado em gestão, responsável pela elaboração de processos internos.
               </p>
             </div>
           </div>
