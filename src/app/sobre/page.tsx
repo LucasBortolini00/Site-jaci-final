@@ -17,13 +17,13 @@ export default function SobrePage() {
         <h2 className="text-3xl font-semibold mb-6 text-cyan-600 text-center">Nossa História</h2>
         <div className="bg-white p-8 rounded-lg shadow-lg">
           <p className="text-gray-700 mb-4">
-            A JACI Projetos e Construções nasceu da visão de profissionais com mais de 15 anos de experiência no mercado de construção civil e aprovações de projetos. Identificamos uma lacuna no mercado: empresários e investidores precisavam de um parceiro que entendesse não apenas de construção, mas também de todo o processo burocrático e legal envolvido em seus empreendimentos.
+            A JACI Projetos e Construções nasceu da visão de profissionais com mais de 40 anos de experiência no mercado de construção civil e aprovações de projetos. Identificamos uma lacuna no mercado: empresários e investidores precisavam de um parceiro que entendesse não apenas de construção, mas também de todo o processo burocrático e legal envolvido em seus empreendimentos.
           </p>
           <p className="text-gray-700 mb-4">
-            Fundada em 2018, nossa empresa rapidamente se destacou pela capacidade de navegar com eficiência pelos complexos processos de aprovação junto às prefeituras, enquanto mantinha o mais alto padrão de qualidade nas construções.
+            Fundada em 1994, nossa empresa rapidamente se destacou pela capacidade de navegar com eficiência pelos complexos processos de aprovação junto às prefeituras, enquanto mantinha o mais alto padrão de qualidade nas construções.
           </p>
           <p className="text-gray-700">
-            Hoje, somos reconhecidos como especialistas em galpões industriais e comerciais, desdobros de terreno e regularizações, tendo completado com sucesso mais de 50 projetos que geraram retorno significativo para nossos clientes.
+            Hoje, somos reconhecidos como especialistas em galpões industriais e comerciais, desdobros de terreno e regularizações, tendo completado com sucesso empreitadas geraram retorno significativo para nossos clientes.
           </p>
         </div>
       </section>
@@ -67,10 +67,10 @@ export default function SobrePage() {
               <p className="text-gray-500">[Foto do Diretor]</p>
             </div>
             <div className="p-6">
-              <h3 className="text-xl font-semibold mb-1 text-cyan-700">João Silva</h3>
-              <p className="text-gray-600 mb-3">Diretor de Projetos</p>
+              <h3 className="text-xl font-semibold mb-1 text-cyan-700">Jaci Tadeu</h3>
+              <p className="text-gray-600 mb-3">Diretor e Fundador</p>
               <p className="text-gray-700">
-                Engenheiro Civil com mais de 20 anos de experiência em aprovações de projetos e gerenciamento de obras industriais.
+                Engenheiro Civil com mais de 40 anos de experiência em aprovações de projetos e gerenciamento de obras industriais.
               </p>
             </div>
           </div>
@@ -80,10 +80,10 @@ export default function SobrePage() {
               <p className="text-gray-500">[Foto da Gerente]</p>
             </div>
             <div className="p-6">
-              <h3 className="text-xl font-semibold mb-1 text-cyan-700">Maria Oliveira</h3>
-              <p className="text-gray-600 mb-3">Gerente de Obras</p>
+              <h3 className="text-xl font-semibold mb-1 text-cyan-700">Fernanda Soares</h3>
+              <p className="text-gray-600 mb-3">Gerente Financeiro</p>
               <p className="text-gray-700">
-                Arquiteta especializada em projetos industriais e comerciais, com vasta experiência em otimização de espaços e fluxos operacionais.
+                Advogada especializada em direito imobiliário, com vasta experiência em controle de gastos e fluxos financeiros.
               </p>
             </div>
           </div>
@@ -93,10 +93,10 @@ export default function SobrePage() {
               <p className="text-gray-500">[Foto do Especialista]</p>
             </div>
             <div className="p-6">
-              <h3 className="text-xl font-semibold mb-1 text-cyan-700">Carlos Santos</h3>
-              <p className="text-gray-600 mb-3">Especialista em Regularizações</p>
+              <h3 className="text-xl font-semibold mb-1 text-cyan-700">Lucas Bortolini</h3>
+              <p className="text-gray-600 mb-3">Gerente de Projetos e Obras</p>
               <p className="text-gray-700">
-                Advogado especializado em direito imobiliário e urbanístico, com profundo conhecimento dos processos de regularização e aprovação.
+                Engenheiro civil, pós graduado em gestão, responsável pela elaboração de processos internos.
               </p>
             </div>
           </div>
