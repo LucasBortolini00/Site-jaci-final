@@ -102,8 +102,8 @@ export default function ContatoPage() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-800">Telefone</h3>
-                  <p className="text-gray-600">(11) 3456-7890</p>
-                  <p className="text-gray-600">(11) 98765-4321</p>
+                  <p className="text-gray-600">(11) 4152-7449</p>
+                  <p className="text-gray-600">(11) xxxxx-xxxx</p>
                 </div>
               </div>
               <div className="flex items-start">
@@ -114,8 +114,8 @@ export default function ContatoPage() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-800">E-mail</h3>
-                  <p className="text-gray-600">contato@jaciprojetos.com.br</p>
-                  <p className="text-gray-600">comercial@jaciprojetos.com.br</p>
+                  <p className="text-gray-600">jaciprojetos@uol.com.br</p>
+                  <p className="text-gray-600">xxxxxxxxxxxxxx@xxx.com.br</p>
                 </div>
               </div>
               <div className="flex items-start">
@@ -127,7 +127,7 @@ export default function ContatoPage() {
                 <div>
                   <h3 className="font-semibold text-gray-800">Horário de Atendimento</h3>
                   <p className="text-gray-600">Segunda a Sexta: 8h às 18h</p>
-                  <p className="text-gray-600">Sábado: 9h às 13h</p>
+                  
                 </div>
               </div>
             </div>
