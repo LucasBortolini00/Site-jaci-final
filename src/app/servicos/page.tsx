@@ -18,9 +18,13 @@ export default function ServicosPage() {
         <div className="grid md:grid-cols-2 gap-8">
           {/* Serviço 1 */}
           <div className="bg-white rounded-lg shadow-lg overflow-hidden">
-            <div className="w-full h-64 bg-gray-300 flex items-center justify-center">
-              <p className="text-gray-500">[Imagem: Construção de Galpão]</p>
-            </div>
+            <div className="w-full h-64 overflow-hidden">
+              <img
+                src="/images/Amora Hidroterapia.jpeg"
+                alt="Construção de Galpão"
+                className="w-full h-full object-cover"
+             />
+          </div>
             <div className="p-6">
               <h3 className="text-2xl font-semibold mb-3 text-cyan-600">Construção de Galpões</h3>
               <p className="text-gray-700 mb-4">
