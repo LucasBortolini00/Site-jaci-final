@@ -8,7 +8,7 @@ export default function ServicosPage() {
       
       <div className="max-w-4xl mx-auto mb-12 text-center">
         <p className="text-xl text-gray-700">
-          Oferecemos soluções completas para seu investimento imobiliário, desde a concepção até a entrega final.
+          Oferecemos soluções completas para NOSSA ALEGRIA seu investimento imobiliário, desde a concepção até a entrega final.
         </p>
       </div>
       
