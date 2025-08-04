@@ -20,7 +20,7 @@ export default function ServicosPage() {
           <div className="bg-white rounded-lg shadow-lg overflow-hidden">
             <div className="w-full h-64 overflow-hidden">
               <img
-                src="/images/Amora Hidroterapia .jpeg"
+                src="/images/amora.jpeg"
                 alt="Construção de Galpão"
                 className="w-full h-full object-cover"
              />
