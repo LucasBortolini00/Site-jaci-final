@@ -8,7 +8,7 @@ export default function ServicosPage() {
       
       <div className="max-w-4xl mx-auto mb-12 text-center">
         <p className="text-xl text-gray-700">
-          Oferecemos soluções completas para NOSSA ALEGRIA seu investimento imobiliário, desde a concepção até a entrega final.
+          Oferecemos soluções completas para seu investimento imobiliário, desde a concepção até a entrega final.
         </p>
       </div>
       
@@ -184,7 +184,7 @@ export default function ServicosPage() {
       
       {/* Diferenciais */}
       <section className="mb-16">
-        <h2 className="text-3xl font-semibold mb-8 text-cyan-600 text-center">Por Que Escolher a JACI</h2>
+        <h2 className="text-3xl font-semibold mb-8 text-cyan-600 text-center">Por Que Escolher a Jaci Projetos</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-6 rounded-lg shadow-md">
             <h3 className="text-xl font-semibold mb-3 text-cyan-700">Expertise Técnica</h3>
